@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    // Application strings
     <string name="app_name">Cup O Joe</string>
     <string name="action_settings">Settings</string>
+
+    // Form strings
     <string name="your_name">Name for Order</string>
     <string name="coffee_name">Name your coffee</string>
     <string name="single_shot">Single shot</string>
@@ -11,5 +14,8 @@
     <string name="sugar">Sugar</string>
     <string name="num_sugar"># of sugars</string>
     <string name="place_order">Place Order</string>
+
+    // Test
+    <string name="test_string">This is a test sting...</string>
 
 </resources>
