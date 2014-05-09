@@ -8,6 +8,6 @@
     <string name="sugar">Sugar</string>
     <string name="num_sugar"># of sugars</string>
     <string name="coffee_name">Name your coffee</string>
-
+    <string name="place_order">Place Order</string>
 
 </resources>
