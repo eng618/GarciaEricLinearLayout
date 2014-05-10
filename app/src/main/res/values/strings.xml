@@ -15,7 +15,7 @@
     <string name="num_sugar"># of sugars</string>
     <string name="place_order">Place Order</string>
 
-    // Test
-    <string name="test_string">This is a test sting...</string>
-
+    <string name="takes_cream">cream</string>
+    <string name="takes_sugar">sugar</string>
+    <string name="blank_text"></string>
 </resources>
